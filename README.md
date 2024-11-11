@@ -26,3 +26,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=esp32web&theme=shades-of-purple" />
 </a>
 
+<a href="https://github.com/hjdhnx/lunjianmud-6.6.6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=lunjianmud-6.6.6&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/hjdhnx/pyquickjs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=pyquickjs&theme=shades-of-purple" />
+</a>
+
+
+
