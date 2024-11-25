@@ -22,6 +22,9 @@
 <a href="https://github.com/hjdhnx/DrPlayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=DrPlayer&theme=shades-of-purple" />
 </a>
+<a href="https://github.com/hjdhnx/drpy-node">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=drpy-node&theme=shades-of-purple" />
+</a>
 <a href="https://github.com/hjdhnx/esp32web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=esp32web&theme=shades-of-purple" />
 </a>
