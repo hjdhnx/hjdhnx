@@ -52,7 +52,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=cf-workers-proxy&theme=shades-of-purple" />
 </a>
 
-
+<a href="https://github.com/hjdhnx/TAICHI-flet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=TAICHI-flet&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/hjdhnx/CatPawOpen/tree/ds-cat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=CatPawOpen&theme=shades-of-purple" />
+</a>
 
 
 
