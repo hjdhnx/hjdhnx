@@ -59,5 +59,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=CatPawOpen&theme=shades-of-purple" />
 </a>
 
+<a href="https://github.com/hjdhnx/reportbro-designer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=reportbro-designer&theme=shades-of-purple" />
+</a>
 
 
