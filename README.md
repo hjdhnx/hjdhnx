@@ -63,4 +63,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=reportbro-designer&theme=shades-of-purple" />
 </a>
 
+<a href="https://github.com/hjdhnx/reportbro-lib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=reportbro-lib&theme=shades-of-purple" />
+</a>
+
+
+
 
