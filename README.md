@@ -22,6 +22,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=hipy-ui&theme=shades-of-purple" />
 </a>
 
+<a href="https://github.com/hjdhnx/hipy-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=hipy-server&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/hjdhnx/dreamStar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=dreamStar&theme=shades-of-purple" />
+</a>
+
 <a href="https://github.com/hjdhnx/font-decoder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=font-decoder&theme=shades-of-purple" />
 </a>
