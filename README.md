@@ -22,6 +22,10 @@
 <a href="https://github.com/hjdhnx/DrPlayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=DrPlayer&theme=shades-of-purple" />
 </a>
+<a href="https://github.com/hjdhnx/pup-sniffer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=pup-sniffer&theme=shades-of-purple" />
+</a>
+
 
 <a href="https://github.com/hjdhnx/hipy-sniffer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjdhnx&repo=hipy-sniffer&theme=shades-of-purple" />
