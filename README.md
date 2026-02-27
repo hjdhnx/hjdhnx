@@ -86,6 +86,10 @@
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hjdhnx&repo=reportbro-lib&theme=shades-of-purple" />
 </a>
 
+<a href="https://github.com/hjdhnx/webGameScript">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hjdhnx&repo=webGameScript&theme=shades-of-purple" />
+</a>
+
 
 
 
