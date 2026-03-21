@@ -12,6 +12,10 @@
 <a href="https://github.com/hjdhnx/drpy-node">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hjdhnx&repo=drpy-node&theme=shades-of-purple" />
 </a>
+<a href="https://github.com/hjdhnx/drpy-plugin">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hjdhnx&repo=drpy-plugin&theme=shades-of-purple" />
+</a>
+
 <a href="https://github.com/hjdhnx/drpy-robot">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hjdhnx&repo=drpy-robot&theme=shades-of-purple" />
 </a>
