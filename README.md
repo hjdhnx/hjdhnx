@@ -98,6 +98,9 @@
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hjdhnx&repo=webGameScript&theme=shades-of-purple" />
 </a>
 
+<a href="https://github.com/hjdhnx/ai_mud5">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hjdhnx&repo=ai_mud5&theme=shades-of-purple" />
+</a>
 
 
 
