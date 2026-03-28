@@ -102,5 +102,11 @@
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hjdhnx&repo=ai_mud5&theme=shades-of-purple" />
 </a>
 
+<a href="https://github.com/hjdhnx/ai-mud5-server">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hjdhnx&repo=ai-mud5-server&theme=shades-of-purple" />
+</a>
 
+<a href="https://github.com/hjdhnx/IOPaint">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hjdhnx&repo=IOPaint&theme=shades-of-purple" />
+</a>
 
